@@ -1,0 +1,7 @@
+2test.c: В функции «main»:
+2test.c:5:10: ошибка: expected «;» before «}» token
+  return 0
+          ^
+          ;
+ }
+ ~         

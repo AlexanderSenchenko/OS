@@ -1,0 +1,1 @@
+cd $HOME ; cat /etc/passwd | sort > $HOME/OS/lab1/passwd.orig
